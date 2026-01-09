@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of the implemented features:
 
-[![Video Walkthrough](https://cdn.loom.com/sessions/thumbnails/816034c7f57343f780a791347a822849-with-play.gif)](https://www.loom.com/share/816034c7f57343f780a791347a822849)
+[![Video Walkthrough](https://cdn.loom.com/sessions/thumbnails/816034c7f57343f780a791347a822849-d5c2f403fe3b871e-full-play.gif#t=0.1)](https://www.loom.com/share/816034c7f57343f780a791347a822849)
 
 Created with [Loom](https://loom.com)
 
