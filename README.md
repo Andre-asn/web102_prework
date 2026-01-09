@@ -21,9 +21,9 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a walkthrough of the implemented features:
 
-<img src='https://www.loom.com/share/816034c7f57343f780a791347a822849' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[![Video Walkthrough](https://cdn.loom.com/sessions/thumbnails/816034c7f57343f780a791347a822849-with-play.gif)](https://www.loom.com/share/816034c7f57343f780a791347a822849)
 
 Created with [Loom](https://loom.com)
 
