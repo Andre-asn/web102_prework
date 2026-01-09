@@ -21,6 +21,12 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center;
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -62,6 +68,28 @@ body {
     box-shadow: 0 0 30px lightblue;
 }
 
+#search-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#search-input {
+    font-family: 'Cabin';
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 2px solid #a8b0bc;
+    border-radius: 7px;
+    width: 300px;
+    max-width: 90%;
+    background-color: #FFFFFF;
+}
+
+#search-input:focus {
+    outline: none;
+    border-color: lightblue;
+    box-shadow: 0 0 10px lightblue;
+}
+
 #button-container {
     text-align: center;
 }
@@ -72,4 +100,11 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+    background-color: lightblue;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #87CEEB;
 }

@@ -1,44 +1,46 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster Crowdfunding
 
-Submitted by: **Your Name Here**
+Submitted by: **Andre Santiago-Neyra**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded. The site features interactive statistics, game filtering, and search functionality to help users discover and explore crowdfunded games.
 
-Time spent: **X** hours spent in total
+Time spent: **5-6** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [X] The introduction section explains the background of the company and how many games remain unfunded.
+* [X] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] Search Functionality - Users can search for games by name or description in real-time
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/816034c7f57343f780a791347a822849' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Created with [Loom](https://loom.com)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges encountered while building the app:
+
+* **Template Literals and Ternary Operators**: Implementing the dynamic description text with proper grammar (singular vs plural) required careful use of ternary operators to ensure correct formatting.
+
+* **Array Methods**: Working with `filter()`, `reduce()`, and `sort()` methods required understanding how to manipulate arrays without mutating the original data structure.
+
+* **DOM Manipulation**: Managing multiple event listeners and ensuring proper cleanup when filtering/searching games required careful DOM manipulation to avoid duplicate elements.
+
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 [Andre Santiago-Neyra]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
